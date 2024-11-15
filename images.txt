@@ -3,9 +3,15 @@
 #mysql:8.1.0
 #redis
 #ubuntu:18.04
-python:3.8
-python:3.9
-python:3.11
+#python:3.8
+#python:3.9
+#python:3.11
+mysql:5.7
+redis:7.0.0
+openjdk:8-jre
+nginx:stable
+zlmediakit/zlmediakit:master
+
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
