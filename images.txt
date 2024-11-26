@@ -12,7 +12,8 @@
 #nginx:stable
 #zlmediakit/zlmediakit:master
 #emqx/emqx:v4.0.0
-emqx:5.0.21
+#emqx:5.0.21
+fuxa:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
